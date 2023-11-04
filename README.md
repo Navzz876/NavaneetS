@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Assosciate Software Engineer
 ----------------------------
 
-Have experience as a front end software developer for 2 years and have experience with C# programming language with .NET Framework and have developed and maintained large scale health insurance pre-authorization applications part of my job. I am also familiar with backend SQL Server and mySQL and interested to learn more about microservices, could and other technologies
+Have experience as a front end software developer for 2 years and have experience with C# programming language with .NET Framework and have developed and maintained large scale health insurance pre-authorization applications part of my job. I am also familiar with backend SQL Server and mySQL and interested to learn more about microservices, cloud and other technologies
 
 *   🌍  I'm based in Bengaluru, Karnataka, India
 *   ✉️  You can contact me at [navaneets@gmail.com](mailto:navaneets@gmail.com)
